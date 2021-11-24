@@ -16,7 +16,7 @@
 
 ### 关于《React进阶实践指南》
 
-<img  src='https://mmbiz.qpic.cn/mmbiz_png/Opr1iaricKA8e1P7LJVdsSnu3FfKF39lfHBR9IEff9QIuJVEkteH647iaT4NZa9jDXyTy1hLBkPsUM0gzbUWib7Q6Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' />
+<img  style="width:50%;border-radius:20px;" src='https://mmbiz.qpic.cn/mmbiz_png/Opr1iaricKA8e1P7LJVdsSnu3FfKF39lfHBR9IEff9QIuJVEkteH647iaT4NZa9jDXyTy1hLBkPsUM0gzbUWib7Q6Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' />
 
 你会学到什么？
 
