@@ -1,9 +1,4 @@
 
-
-(https://github-readme-stats.vercel.app/api?username=GoodLuckAlien&show_icons=true&theme=synthwave)](https://github.com/GoodLuckAlien/github-readme-stats)
-
-
-
 ### 关于react-keepalive-router
 
 [![npm version](https://img.shields.io/npm/v/react-keepalive-router.svg?style=flat-square)](https://www.npmjs.org/package/react-keepalive-router)
