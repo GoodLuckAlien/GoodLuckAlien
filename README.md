@@ -1,6 +1,6 @@
 
 
-[![Alien's github stats](https://github-readme-stats.vercel.app/api?username=GoodLuckAlien&show_icons=true&theme=synthwave)](https://github.com/GoodLuckAlien/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=GoodLuckAlien&show_icons=true&theme=synthwave)](https://github.com/GoodLuckAlien/github-readme-stats)
 
 
 
