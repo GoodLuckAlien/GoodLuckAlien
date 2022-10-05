@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 ### 关于我：
@@ -32,6 +33,8 @@
 
 
 
+=======
+>>>>>>> 0e8f3a4cf4a5b61537036ca823df717e99908012
 ### 关于react-keepalive-router
 
 [![npm version](https://img.shields.io/npm/v/react-keepalive-router.svg?style=flat-square)](https://www.npmjs.org/package/react-keepalive-router)
