@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 
 
 ### 关于我：
@@ -31,10 +30,6 @@
 * ✈️ React 封装组件实践，以及高阶组件的原理和使用方法。
 * 🔭 React 面试常见问题及答案解析。
 
-
-
-=======
->>>>>>> 0e8f3a4cf4a5b61537036ca823df717e99908012
 ### 关于react-keepalive-router
 
 [![npm version](https://img.shields.io/npm/v/react-keepalive-router.svg?style=flat-square)](https://www.npmjs.org/package/react-keepalive-router)
